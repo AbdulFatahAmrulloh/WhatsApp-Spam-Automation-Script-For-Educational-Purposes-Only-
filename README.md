@@ -23,7 +23,7 @@ Repositori ini berisi **skrip otomatisasi pesan WhatsApp** menggunakan **Python 
 ## 🚀 **Cara Menggunakan**  
 1️⃣ **Clone repositori ini ke lokal Anda**  
    ```bash
-   git clone https://github.com/WhatsApp-Spam-Automation-Script-For-Educational-Purposes-Only-/WhatsApp-Automation-Script.git
+   git clone https://github.com/AbdulFatahAmrulloh/WhatsApp-Automation-Script.git
    ```  
 2️⃣ **Install dependensi yang diperlukan**  
    ```bash
@@ -48,4 +48,4 @@ Kami terbuka untuk pengembangan lebih lanjut! Jika Anda memiliki ide atau ingin 
 
 ---
 
-Pastikan Anda mengganti `https://github.com/WhatsApp-Spam-Automation-Script-For-Educational-Purposes-Only-/WhatsApp-Automation-Script.git` dengan URL repositori yang sesuai. Tetap gunakan dengan **etika dan tanggung jawab**! 🚀📩
+Pastikan Anda mengganti `https://github.com/AbdulFatahAmrulloh/WhatsApp-Automation-Script.git` dengan URL repositori yang sesuai. Tetap gunakan dengan **etika dan tanggung jawab**! 🚀📩
