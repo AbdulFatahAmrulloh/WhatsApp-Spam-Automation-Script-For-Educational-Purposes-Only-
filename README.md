@@ -1,6 +1,3 @@
-Repositori dengan topik **WhatsApp Spam Automation** berisiko melanggar kebijakan penggunaan layanan WhatsApp dan dapat dianggap sebagai aktivitas yang tidak etis atau ilegal. Namun, jika tujuan proyek ini adalah **untuk pembelajaran otomatisasi pesan** dengan **penggunaan yang bertanggung jawab**, maka deskripsinya bisa difokuskan pada aspek **pengujian bot, otomatisasi pesan, atau chatbot edukatif**.  
-
-Berikut deskripsi yang lebih sesuai dan etis:  
 
 ---
 
